@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "雲と幽霊",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2026-02-08T10:39:12.519320Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雲と幽霊",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_雲と幽霊_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雲と幽霊",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_雲と幽霊_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "雲と幽霊",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/03_雲と幽霊_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雲と幽霊",
+      "artist": "ヨルシカ & n-buna",
+      "has_synced": true,
+      "path": "select/04_雲と幽霊_ヨルシカ_&_n-buna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "雲と幽霊",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/05_雲と幽霊_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "雲と幽霊",
+      "artist": "ヨルシカ (Yorushika)",
+      "has_synced": true,
+      "path": "select/06_雲と幽霊_ヨルシカ_(Yorushika).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "雲と幽霊 (The Clouds and the Ghost)",
+      "artist": "ヨルシカ (Yorushika)",
+      "has_synced": true,
+      "path": "select/07_雲と幽霊_(The_Clouds_and_the_Ghost)_ヨルシカ_(Yorushika).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雲と幽霊",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_雲と幽霊_ヨルシカ.txt"
+    }
+  ]
+}
